@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+
+<html>
+
+    <head>
+     
+
+        <meta charset="utf-8">
+     
+
+        <title>CSS Basics</title>
+     
+      <style>
+       
+        h2{
+          color: black
+        }
+        p1{
+          color: rgb(191,0,255)
+        }
+        p2{
+          color: blue
+        }
+        .fondop3{
+          background-color:purple
+        }
+        .fondop3{
+          color: white
+        }
+        #colorp4{
+          color: black
+        }
+        #colorp4{
+          background-color:white
+        }
+        h1{
+          color: black;font-size:50px
+        }
+        h2{
+          color: rgb(0,232,15);font-size:20px
+        }
+        #vh2{
+          color: orange
+        }
+        h3{
+          color: black
+        }
+        #h3c{
+          color: white
+        }
+        #h3c{
+          background-color: black
+        }
+        .justificartexto{
+          tex-align: justify
+        }
+
+    </head>
+
+    <body>
+        <html>
+
+<head>
+
+<!--Cabecera de la página web-->
+
+<title>Web saludo</title>
+
+<meta name="description" content="página de prueba">
+
+<meta name="keywords" content="prueba,html,web">
+
+<meta http-equiv="content-Type" content="text/html;charset=UTF-8">
+
+
+
+
+    <h1>Elon Musk</h1>
+
+    <div style="text-align: center;">
+
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Elon_Musk_Royal_Society_%28crop1%29.jpg/330px-Elon_Musk_Royal_Society_%28crop1%29.jpg" alt="Elon Musk" align="center" width="203">
+
+    </div>
+
+    <h2>Información Básica</h2>
+
+    <p1 class="justificartexto">Elon Reeve Musk (Pretoria, 28 de junio de 1971) es un <em>empresario, inversionista y magnate estadounidense de origen sudafricano</em>. <strong>Es el fundador, consejero delegado e ingeniero jefe de SpaceX; inversor ángel, <em>CEO y arquitecto de productos de Tesla, Inc</em></strong>; fundador de The Boring Company; y cofundador de Neuralink y OpenAI. Con un patrimonio neto estimado en unos 252 mil millones de dólares en abril de 2022,2 Musk es la persona más rica del mundo según el índice de multimillonarios de Bloomberg y la lista de multimillonarios en tiempo real de ForbesElon Reeve Musk (Pretoria, 28 de junio de 1971) es un empresario, inversionista y magnate estadounidense de origen sudafricano. Es el fundador, consejero delegado e ingeniero jefe de SpaceX; inversor ángel, CEO y arquitecto de productos de Tesla, Inc; fundador de The Boring Company; y cofundador de Neuralink y OpenAI. Con un patrimonio neto estimado en unos 252 mil millones de dólares en abril de 2022,2 Musk es la persona más rica del mundo según el índice de multimillonarios de Bloomberg y la lista de multimillonarios en tiempo real de Forbes.</p>
+
+   
+
+   
+
+    <h2 id="vh2">SpaceX</h2>
+
+   
+
+    <p2 class="justificartexto" >En 2002, Elon Musk comenzó a investigar la viabilidad de mandar un vehículo a Marte. Cada cohete Delta-2 costaba entre 50 y 60 millones de dólares por misión y se necesitaban al menos dos misiones. Realizó tres viajes a Rusia e intentó comprar sin éxito cohetes intercontinentales ICBM sin las cabezas nucleares.2440 En el avión de vuelta con sus socios Mike Griffin y Jim Cantrell, Elon les mostró una hoja de cálculo en la que había trabajado durante meses. Era el primer prototipo de SpaceX donde detallaba todas las partes del negocio. En el diseño usaría cohetes reutilizables. Tendría una estrategia de integración vertical. En las necesidades de los clientes había un nicho emergente para lanzar satélites pequeños. Analizaba criterios de costes y beneficios. El modelo de negocio sería el de una empresa aeroespacial privada. También había estudiado la física detrás de la estructura del cohete y el lanzamiento</p>
+
+
+<div style="text-align: center;">
+
+  <img src="https://fotografias.lasexta.com/clipping/cmsimages02/2022/05/03/6F9C82A4-0FA4-40F9-BE2F-87F8DBBC1224/elon-musk-met-gala_98.jpg?crop=1407,792,x0,y150&width=1900&height=1069&optimize=high&format=webply" alt="logo wix" align="center" width="400" height="300" >
+
+</div>
+<div style="text-align: center;">
+
+  <a href="https://www.google.com/%22%3E<img src="https://cutt.ly/WB41EID" alt="casa invierno" align="center" width="400" height="300"></a>
+
+      </div>
+
+
+    <h3>Starlink</h3>
+
+
+
+    <p3 class="fondop3" class="justificartexto" >Starlink es un proyecto de la empresa SpaceX para la creación de una constelación de satélites de internet46 con el objetivo de brindar un servicio de internet de banda ancha, baja latencia y cobertura mundial a bajo costo.474849 En 2017 se completaron los requisitos regulatorios para lanzar 11 943 satélites para mediados de la década de 2020.50 SpaceX también planea vender satélites para uso militar,51 científico y de exploración.49 En noviembre de 2018, la empresa recibió la autorización del ente gubernamental estadounidense (FCC) para desplegar 7518 satélites de banda ancha, que se sumarían a los 4425 aprobados en marzo del mismo año.52 El desarrollo comenzó en 2015, y los primeros prototipos de satélite fueron lanzados el 22 de febrero de 2018.5354 El lanzamiento de los primeros 60 satélites se llevó a cabo el 23 de mayo de 2019, y se espera que el inicio de operaciones comerciales de la constelación empiece en el año 2020.</p>
+
+   
+
+<h2>Tesla</h2>
+
+   
+
+    <p4 id="colorp4" class="justificartexto">En 2003 JB Straubel y Elon Musk visitaron la empresa AC Propulsion, que tenía un prototipo de coche deportivo eléctrico basado en un kit de un coche de gasolina al que habían adaptado un motor eléctrico y unas baterías de iones de litio. El prototipo aceleraba de 0 a 100 km/h en menos de 4 segundos y tenía una autonomía de 300 kilómetros. Durante meses Elon Musk trató de convencerlos de que comercializaran el vehículo, pero ellos no estaban interesados en hacerlo. Los miembros de AC Propulsion lo pusieron en contacto con Martin Eberhard, Marc Tarpenning y fundaron Tesla Motors con la intención de fabricar un coche eléctrico deportivo.</p>
+
+
+
+    <h3 id="h3c">Tips</h3>
+
+
+
+
+
+ <ul>
+
+        <li>Fabricar un coche deportivo</li>
+
+        <li>Usar ese dinero para fabricar un coche asequible.</li>
+
+        <li>Usar ese dinero para fabricar otro coche más asequible.</li>
+
+    <li>Y mientras estés haciendo todo lo anterior suministra generación de electricidad con emisiones cero</li>
+
+    </ul>
+
+   
+
+    <h3>Otras empresas</h3>
+
+   
+
+    <ol>
+
+        <li>Zip2</li>
+
+        <li>X.com</li>
+
+        <li>PayPal</li>
+
+    </ol>
+
+    <iframe width="720" height="360" src="https://www.youtube.com/embed/vhD_3T3nNMg" title="Elon Musk: curiosidades que seguramente desconocía del millonario" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+   
+
+    </body>
